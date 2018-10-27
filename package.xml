@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>libdynamixel_ros</name>
+  <version>0.0.0</version>
+  <description>catkinized libdynamixel</description>
+
+  <maintainer email="otamachan@gmail.com">Tamaki Nishino</maintainer>
+
+  <license>GPL-2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>boost</build_depend>
+
+</package>
